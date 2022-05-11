@@ -1,6 +1,6 @@
 /* 
 Don't change credits🥲🚶
-Sourcecode https://github.com/pepesir/Bosco
+Sourcecode https://github.com/manu1486/Flash-bot
 Want to recode? yes, it's up to you as long as you don't change the watermark
 Don't sell the SC 😐👌
 */
@@ -42,14 +42,14 @@ baterai = 'unknown'
 charging = 'unknown'
 
 
-require('./Bosco.js')
-nocache('../Bosco.js', module => console.log(color('[WATCH]', 'cyan'), color(`'${module}'`, 'green'), 'File is updated!'))
+require('./Flash.js')
+nocache('../Flash.js', module => console.log(color('[WATCH]', 'cyan'), color(`'${module}'`, 'green'), 'File is updated!'))
 require('./message/help.js')
 nocache('../message/help.js', module => console.log(color('[WATCH]', 'cyan'), color(`'${module}'`, 'green'), 'File is updated!'))
          
     const starts = async (bosco = new WAConnection()) => {
 	bosco.logger.level = 'warn'
-	console.log(color(figlet.textSync('BOSCO BY PEPE', {
+	console.log(color(figlet.textSync('𝙵𝙻𝙰𝚂𝙷 𝙱𝚈 𝙼𝙰𝙽𝚄𝚂𝙸𝚁', {
 		font: 'Standard',
 		horizontalLayout: 'default',
 		vertivalLayout: 'default',
@@ -58,7 +58,7 @@ nocache('../message/help.js', module => console.log(color('[WATCH]', 'cyan'), co
 	}), 'yellow'))
 	console.log(color('[DENIS]', 'cyan'), color('WELCOME', 'white'))
 	console.log(color('[SER]', 'cyan'), color('BOT RUNNING', 'yellow'))
-	bosco.browserDescription = ["SUBSCRIBE YT - [PEPE - SIR]", "firefox", "3.0.0"];
+	bosco.browserDescription = ["SUBSCRIBE YT - [MANU - SIR]", "firefox", "3.0.0"];
 
 	// Menunggu QR
 	bosco.on('qr', () => {
@@ -105,7 +105,7 @@ nocache('../message/help.js', module => console.log(color('[WATCH]', 'cyan'), co
 	})
 	
 	  // Call Block
-	/*bosco.on('CB:action,,call', async json => {
+	/*flash.on('CB:action,,call', async json => {
         const callerId = json[2][0][1].from;
         console.log("caller "+ callerId)
         bosco.sendMessage(callerId, "Call = BLOCK!!\nDont call me!!", MessageType.text)
@@ -137,7 +137,7 @@ nocache('../message/help.js', module => console.log(color('[WATCH]', 'cyan'), co
  @${num.split('@')[0]}
 `
 			promoteBut = [{buttonId:`hm`,buttonText:{displayText:'Congrats 🥳'},type:1}]
-            promoteButt = { contentText: `${teks}`, footerText: `Thank You So Much 🌝❤️`, buttons: promoteBut, headerType: 6, locationMessage: bosco2.message.locationMessage}
+            promoteButt = { contentText: `${teks}`, footerText: `Thank You So Much 🌝❤️`, buttons: promoteBut, headerType: 6, locationMessage: flash2.message.locationMessage}
             bosco.sendMessage(mdata.id, promoteButt, MessageType.buttonsMessage, { caption: 'hehe', "contextInfo": { "mentionedJid" : [num], },})
 		    } else if (anu.action == 'demote') {
 			num = anu.participants[0]
@@ -148,8 +148,8 @@ nocache('../message/help.js', module => console.log(color('[WATCH]', 'cyan'), co
 					ppimg = 'https://i.ibb.co/rvsVF3r/5012fbb87660.png'
 				}
 			let buff = await getBuffer(ppimg)
-			const bosco3= await bosco.prepareMessage("0@s.whatsapp.net", buff, MessageType.location,{ thumbnail: buff})
-			const bosco4 = bosco3.message["ephemeralMessage"] ? bosco3.message.ephemeralMessage : bosco3
+			const flash3= await flash.prepareMessage("0@s.whatsapp.net", buff, MessageType.location,{ thumbnail: buff})
+			const flash4 = bosco3.message["ephemeralMessage"] ? flash3.message.ephemeralMessage : bosco3
 			teks = `*Yᴏᴜ Aʀᴇ Nᴏ Lᴏɴɢᴇʀ Aɴ Aᴅᴍɪɴ*
  @${num.split('@')[0]}
 `
@@ -164,8 +164,8 @@ nocache('../message/help.js', module => console.log(color('[WATCH]', 'cyan'), co
 
     bosco.on('group-update', async (anu) => {
     falfa = { key: {fromMe: false,participant: "0@s.whatsapp.net",
-   remoteJid: "0@s.whatsapp.net"},message: {"groupInviteMessage": {"groupJid": "6288213840883-1616169743@g.us","inviteCode": "mememteeeekkeke","groupName": "Alphabot", "caption": `🌹 𝑷 𝑬 𝑷 𝑬 - 𝑺 𝑬 𝑹 🌹`, 'jpegThumbnail': fs.readFileSync(`ds.jpg`)}}}
-    metdata = await bosco.groupMetadata(anu.jid)
+   remoteJid: "0@s.whatsapp.net"},message: {"groupInviteMessage": {"groupJid": "6288213840883-1616169743@g.us","inviteCode": "mememteeeekkeke","groupName": "Alphabot", "caption": `🌹 𝕱𝖑𝖆𝖘𝖍-𝕾𝖎𝖙 🌹`, 'jpegThumbnail': fs.readFileSync(`ds.jpg`)}}}
+    metdata = await flash.groupMetadata(anu.jid)
     if(anu.announce == 'false'){
     teks = `*[ Gʀᴏᴜᴘ Oᴘᴇɴᴇᴅ ]*\n`
     bosco.sendMessage(metdata.id, teks, MessageType.text, {quoted: falfa})
@@ -192,7 +192,7 @@ nocache('../message/help.js', module => console.log(color('[WATCH]', 'cyan'), co
 
     
 	bosco.on('chat-update', async (message) => {
-		require('./Bosco.js')(bosco, message)
+		require('./Flash.js')(bosco, message)
 	})
 }
 
