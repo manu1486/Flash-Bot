@@ -17,14 +17,14 @@
 </p>
 
 
-> Bosco Bot is a multipurpose WhatsApp bot using Adiwajshing-Baileys library!
+> Flash Bot is a multipurpose WhatsApp bot using Adiwajshing-Baileys library!
 >
 >
 
 <p align="center">
-  <a href="https://github.com/pepesir/Bosco#requirements">Requirements</a> •
-  <a href="https://github.com/pepesir/Bosco#simple-method">Installation</a> •
-  <a href="https://github.com/pepesir/Bosco#thanks-to">Thanks to</a>
+  <a href="https://github.com/manu1486/Flash-Bot#requirements">Requirements</a> •
+  <a href="https://github.com/manu1486/Flash-Bot#simple-method">Installation</a> •
+  <a href="https://github.com/manu1486/Flash-Bot#thanks-to">Thanks to</a>
 </p>
 </div>
 
@@ -52,7 +52,7 @@ https://github.com/DuckyTeam/heroku-buildpack-imagemagick
 ### `FOR TERMUX`
 
 * Yeah , It's now available for termux
-* First fork this repo and change session in <a href="https://github.com/pepesir/Bosco/blob/master/Denis.json">Denis.json</a> ,Then follow these commands ✅
+* First fork this repo and change session in <a href="https://github.com/manu1486/Flash-Bot/blob/master/Denis.json">Denis.json</a> ,Then follow these commands ✅
 * NOTE : U HAVE TO CLONE YOUR FORKED REPO , NOT MINE REPO !!
 
 
@@ -67,10 +67,10 @@ pkg install git
 pkg install bash
 ```
 ```
-git clone https://github.com/pepesir/Bosco.git 
+git clone https://github.com/manu1486/Flash-Bot.git 
 ```
 ```
-cd Bosco
+cd Flash-Bot
 ```
 ```
 bash install.sh
