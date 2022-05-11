@@ -7,9 +7,9 @@
 
 
 <div align="center">
-<img src="media/boscoimg.jpg" alt="Pepe" width="170" />
+<img src="20220511_114857.jpg" alt="Pepe" width="170" />
 
-# Bosco Bot
+# Flash Bot
 <p align="center">
  <a href="https://github.com/manu1486"><img title="Author" src="https://img.shields.io/badge/OWNER-h?color=black&style=for-the-badge&logo=github"></a>  <a href="https://Wa.me/+917034958160?text=Hello%20P3P3%20Bro🌝...fen%20boi%20aan😌💝"><img title="Author" src="https://img.shields.io/badge/Author B3NISON Sir-h?color=black&style=for-the-badge&logo=whatsapp"></a>
 <p align="center">
