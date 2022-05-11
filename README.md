@@ -1,5 +1,5 @@
-#### NO MORE UPDATES IN BOSCO ...COMING WITH A NEW BOT SOON🙂💖
-#### HOW TO DEPLOY ?? [` CLICK HERE TO WATCH TUTORIAL ✨`](https://youtu.be/ZJQ50wYh7dc) 
+#### NO MORE UPDATES IN FLASH ...COMING WITH A NEW BOT SOON🙂💖
+#### HOW TO DEPLOY FLASH ?? [` CLICK HERE TO WATCH TUTORIAL ✨`](https://youtu.be/ZJQ50wYh7dc) 
 
 
 <div align="center">
@@ -11,7 +11,7 @@
 
 # Bosco Bot
 <p align="center">
- <a href="https://github.com/pepesir"><img title="Author" src="https://img.shields.io/badge/OWNER-h?color=black&style=for-the-badge&logo=github"></a>  <a href="https://Wa.me/+917736622139?text=Hello%20P3P3%20Bro🌝...fen%20boi%20aan😌💝"><img title="Author" src="https://img.shields.io/badge/Author P3P3 Sir-h?color=black&style=for-the-badge&logo=whatsapp"></a>
+ <a href="https://github.com/manu1486"><img title="Author" src="https://img.shields.io/badge/OWNER-h?color=black&style=for-the-badge&logo=github"></a>  <a href="https://Wa.me/+917034958160?text=Hello%20P3P3%20Bro🌝...fen%20boi%20aan😌💝"><img title="Author" src="https://img.shields.io/badge/Author B3NISON Sir-h?color=black&style=for-the-badge&logo=whatsapp"></a>
 <p align="center">
 <a href="https://chat.whatsapp.com/BzhyWkAEU0t8oVl3s8p94m"><img title="Author" src="https://img.shields.io/badge/WHATSAPP GROUP-h?color=black&style=for-the-badge&logo=whatsapp"></a>    <a href="https://youtube.com/channel/UCVJ9029PQ-gJBtFQZZ3AJuA"><img title="Author" src="https://img.shields.io/badge/YT PEPE SIR-h?color=black&style=for-the-badge&logo=youtube"></a>
 </p>
@@ -107,7 +107,7 @@ you can contact us
 ### `THANKS TO`
 * 𝙳𝙴𝙽𝙸𝚂 𝚂𝙸𝚁
 * [`𝙺𝚁𝙸𝚉 𝚂𝙸𝚁`](https://github.com/KANNANSIR)
-* [`𝙿𝙴𝙿𝙴 𝚂𝙸𝚁`](https://github.com/pepesir)
+* [`MANU 𝚂𝙸𝚁`](https://github.com/manu1486)
 * [`𝚃𝙰𝚄𝚁𝚄𝚂`](https://github.com/I-AM-MUHAMMED)
 * [`𝙰𝙲𝙷𝚄 𝚂𝙸𝚁`](https://github.com/ACHUSIR8)
 * [`𝙱𝙰𝙸𝙻𝙴𝚈𝚂`](https://github.com/adiwajshing/Baileys)
